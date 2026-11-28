@@ -1,6 +1,6 @@
 cask "nearside" do
-  version "0.3.1"
-  sha256 "c44f2c6916c2699256d1a5d3ce3df3ec07b9a316e62246057701c9b1537a3a56"
+  version "0.3.2"
+  sha256 "0304c55e3f044aeeac69ecec928b6ccd75244fb25d30095b3010c1dd602696f3"
 
   url "https://github.com/ramiejleh/Nearside/releases/download/v#{version}/Nearside-#{version}.zip"
   name "Nearside"
